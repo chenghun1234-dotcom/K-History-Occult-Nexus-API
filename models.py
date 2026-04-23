@@ -30,8 +30,8 @@ class HistoricalOccultData(BaseModel):
     location: Location
     significance: MultilingualStr
     occult_factor: MultilingualStr
-    figures: List[HistoricalFigure]
-    detailed_records: List[DetailedRecord]
+    figures: List[HistoricalFigure] = []
+    detailed_records: List[DetailedRecord] = []
     game_stats: GameStats
     verified: bool = True
     is_fiction: bool = False
