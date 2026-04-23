@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K-History Occult Nexus API | Official Documentation</title>
+    <meta name="description" content="Discover the supernatural secrets hidden in Korean history. Structured data for game developers and lore seekers.">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Noto+Sans+KR:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-bg: #0a0b10;
+            --accent-purple: #6c5ce7;
+            --ghost-blue: #a29bfe;
+            --shaman-gold: #fdcb6e;
+            --glass-bg: rgba(255, 255, 255, 0.05);
+            --glass-border: rgba(255, 255, 255, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--primary-bg);
+            color: #ffffff;
+            font-family: 'Outfit', 'Noto Sans KR', sans-serif;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Hero Section */
+        .hero {
+            position: relative;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 20px;
+            background: linear-gradient(to bottom, rgba(10, 11, 16, 0.4), var(--primary-bg)), url('hero.png');
+            background-size: cover;
+            background-position: center;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            background: radial-gradient(circle, transparent 20%, var(--primary-bg) 80%);
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 10;
+            max-width: 900px;
+        }
+
+        h1 {
+            font-size: 4rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+            background: linear-gradient(45deg, #fff, var(--shaman-gold));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            color: var(--ghost-blue);
+            margin-bottom: 40px;
+            letter-spacing: 1px;
+        }
+
+        /* Glass Cards */
+        .container {
+            max-width: 1200px;
+            margin: -100px auto 100px;
+            padding: 0 20px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            position: relative;
+            z-index: 20;
+        }
+
+        .card {
+            background: var(--glass-bg);
+            backdrop-filter: blur(15px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 40px;
+            transition: transform 0.3s ease, border-color 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            border-color: var(--accent-purple);
+        }
+
+        .card h3 {
+            color: var(--shaman-gold);
+            margin-bottom: 15px;
+            font-size: 1.5rem;
+        }
+
+        .card p {
+            color: #ccc;
+            font-size: 0.95rem;
+        }
+
+        /* API Explorer Section */
+        .explorer {
+            max-width: 1000px;
+            margin: 0 auto 100px;
+            padding: 60px;
+            background: var(--glass-bg);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-radius: 30px;
+        }
+
+        .endpoint-badge {
+            display: inline-block;
+            padding: 5px 15px;
+            background: var(--accent-purple);
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.8rem;
+            margin-bottom: 15px;
+        }
+
+        pre {
+            background: #000;
+            padding: 20px;
+            border-radius: 15px;
+            border: 1px solid var(--glass-border);
+            color: #00d2ff;
+            font-family: 'Courier New', Courier, monospace;
+            overflow-x: auto;
+            margin-top: 20px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 15px 40px;
+            background: var(--shaman-gold);
+            color: #000;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 700;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+            box-shadow: 0 10px 20px rgba(253, 203, 110, 0.3);
+        }
+
+        .btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 15px 30px rgba(253, 203, 110, 0.5);
+        }
+
+        footer {
+            text-align: center;
+            padding: 50px;
+            border-top: 1px solid var(--glass-border);
+            color: #666;
+        }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 2.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <section class="hero">
+        <div class="hero-content">
+            <span style="color: var(--shaman-gold); letter-spacing: 5px; font-weight: 600;">THE FORBIDDEN CHRONICLES</span>
+            <h1>K-History Occult Nexus</h1>
+            <p>Global Standard API for Korean Historical Fantasy & Shamanic Lore</p>
+            <a href="https://rapidapi.com" class="btn">Register on RapidAPI</a>
+        </div>
+    </section>
+
+    <div class="container">
+        <div class="card">
+            <h3>🏛️ Historical Shrines</h3>
+            <p>Analyze the spiritual energy and historical tragedies of Korea's major battlefields and shrines.</p>
+            <div style="margin-top: 20px; font-size: 0.8rem; color: var(--ghost-blue);">/historical-shrine</div>
+        </div>
+        <div class="card">
+            <h3>🗡️ Relic Artifacts</h3>
+            <p>From the Bukgwan Stele to the Sa-in-geom, get precise stats for items imbued with ancient magic.</p>
+            <div style="margin-top: 20px; font-size: 0.8rem; color: var(--ghost-blue);">/artifact-specs</div>
+        </div>
+        <div class="card">
+            <h3>👻 Chronicle Horror</h3>
+            <p>Mystery records from the Joseon Sil-lok reinterpreted as modern occult threats.</p>
+            <div style="margin-top: 20px; font-size: 0.8rem; color: var(--ghost-blue);">/chronicle-horror</div>
+        </div>
+    </div>
+
+    <section class="explorer">
+        <div class="endpoint-badge">GET</div>
+        <h2 style="font-size: 2rem; margin-bottom: 20px;">Multilingual JSON Response</h2>
+        <p>Our API supports both Korean and English natively for integration into global titles.</p>
+        
+        <pre>
+{
+  "event_id": "K-WAR-1592-UNGCHI",
+  "title": {
+    "ko": "웅치전투: 망군(亡軍)의 고개",
+    "en": "Battle of Ungchi: The Pass of the Ghost Army"
+  },
+  "occult_type": {
+    "ko": "망령 군대 / 지형적 살(煞)",
+    "en": "Spirit Army / Terrain Curse"
+  },
+  "danger_level": 4,
+  "game_logic": {
+    "status_effect": "Lost (Movement speed reduced by 50%)"
+  }
+}
+        </pre>
+    </section>
+
+    <footer>
+        &copy; 2026 K-History Occult Nexus. Powered by Vibe Coding.
+    </footer>
+
+</body>
+</html>

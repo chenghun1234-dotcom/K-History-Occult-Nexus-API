@@ -1,0 +1,1852 @@
+[
+  {
+    "id": "K-CHRON-1401",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 1호",
+      "en": "Joseon Chronicle Mystery Case #1"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.576,
+        "lng": 126.988
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 6,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1402",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 2호",
+      "en": "Joseon Chronicle Mystery Case #2"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.586000000000006,
+        "lng": 126.99799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "특정 구역에 진입 시 나침반(지남반)이 거꾸로 회전하며 도깨비의 장난이 시작됨.",
+      "en": "Compasses rotate backward upon entering specific zones, signaling Dokkaebi mischief."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 7,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1403",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 3호",
+      "en": "Joseon Chronicle Mystery Case #3"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.596000000000004,
+        "lng": 127.008
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 6,
+      "difficulty": 5,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1404",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 4호",
+      "en": "Joseon Chronicle Mystery Case #4"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.606,
+        "lng": 127.018
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "특정 구역에 진입 시 나침반(지남반)이 거꾸로 회전하며 도깨비의 장난이 시작됨.",
+      "en": "Compasses rotate backward upon entering specific zones, signaling Dokkaebi mischief."
+    },
+    "game_stats": {
+      "strategy": 6,
+      "difficulty": 5,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1405",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 5호",
+      "en": "Joseon Chronicle Mystery Case #5"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.616,
+        "lng": 127.02799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 9,
+      "difficulty": 10,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1406",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 6호",
+      "en": "Joseon Chronicle Mystery Case #6"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.626000000000005,
+        "lng": 127.038
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 6,
+      "difficulty": 7,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1407",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 7호",
+      "en": "Joseon Chronicle Mystery Case #7"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.636,
+        "lng": 127.04799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "특정 구역에 진입 시 나침반(지남반)이 거꾸로 회전하며 도깨비의 장난이 시작됨.",
+      "en": "Compasses rotate backward upon entering specific zones, signaling Dokkaebi mischief."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 10,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1408",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 8호",
+      "en": "Joseon Chronicle Mystery Case #8"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.646,
+        "lng": 127.05799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 6,
+      "difficulty": 6,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1409",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 9호",
+      "en": "Joseon Chronicle Mystery Case #9"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.656000000000006,
+        "lng": 127.068
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 7,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1410",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 10호",
+      "en": "Joseon Chronicle Mystery Case #10"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.666000000000004,
+        "lng": 127.07799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 6,
+      "difficulty": 10,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1411",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 11호",
+      "en": "Joseon Chronicle Mystery Case #11"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.676,
+        "lng": 127.088
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 7,
+      "difficulty": 8,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1412",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 12호",
+      "en": "Joseon Chronicle Mystery Case #12"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.686,
+        "lng": 127.098
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 7,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1413",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 13호",
+      "en": "Joseon Chronicle Mystery Case #13"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.696000000000005,
+        "lng": 127.10799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 10,
+      "difficulty": 9,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1414",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 14호",
+      "en": "Joseon Chronicle Mystery Case #14"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.706,
+        "lng": 127.118
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "특정 구역에 진입 시 나침반(지남반)이 거꾸로 회전하며 도깨비의 장난이 시작됨.",
+      "en": "Compasses rotate backward upon entering specific zones, signaling Dokkaebi mischief."
+    },
+    "game_stats": {
+      "strategy": 6,
+      "difficulty": 9,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1415",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 15호",
+      "en": "Joseon Chronicle Mystery Case #15"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.716,
+        "lng": 127.128
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "특정 구역에 진입 시 나침반(지남반)이 거꾸로 회전하며 도깨비의 장난이 시작됨.",
+      "en": "Compasses rotate backward upon entering specific zones, signaling Dokkaebi mischief."
+    },
+    "game_stats": {
+      "strategy": 8,
+      "difficulty": 7,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1416",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 16호",
+      "en": "Joseon Chronicle Mystery Case #16"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.726,
+        "lng": 127.13799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 9,
+      "difficulty": 5,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1417",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 17호",
+      "en": "Joseon Chronicle Mystery Case #17"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.736000000000004,
+        "lng": 127.148
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 8,
+      "difficulty": 9,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1418",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 18호",
+      "en": "Joseon Chronicle Mystery Case #18"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.746,
+        "lng": 127.158
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 10,
+      "difficulty": 9,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1419",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 19호",
+      "en": "Joseon Chronicle Mystery Case #19"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.756,
+        "lng": 127.16799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 5,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1420",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 20호",
+      "en": "Joseon Chronicle Mystery Case #20"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.766000000000005,
+        "lng": 127.178
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "특정 구역에 진입 시 나침반(지남반)이 거꾸로 회전하며 도깨비의 장난이 시작됨.",
+      "en": "Compasses rotate backward upon entering specific zones, signaling Dokkaebi mischief."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 9,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1421",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 21호",
+      "en": "Joseon Chronicle Mystery Case #21"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.776,
+        "lng": 127.18799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 9,
+      "difficulty": 9,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1422",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 22호",
+      "en": "Joseon Chronicle Mystery Case #22"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.786,
+        "lng": 127.198
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "특정 구역에 진입 시 나침반(지남반)이 거꾸로 회전하며 도깨비의 장난이 시작됨.",
+      "en": "Compasses rotate backward upon entering specific zones, signaling Dokkaebi mischief."
+    },
+    "game_stats": {
+      "strategy": 10,
+      "difficulty": 7,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1423",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 23호",
+      "en": "Joseon Chronicle Mystery Case #23"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.796,
+        "lng": 127.208
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "특정 구역에 진입 시 나침반(지남반)이 거꾸로 회전하며 도깨비의 장난이 시작됨.",
+      "en": "Compasses rotate backward upon entering specific zones, signaling Dokkaebi mischief."
+    },
+    "game_stats": {
+      "strategy": 6,
+      "difficulty": 5,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1424",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 24호",
+      "en": "Joseon Chronicle Mystery Case #24"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.806000000000004,
+        "lng": 127.21799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 5,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1425",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 25호",
+      "en": "Joseon Chronicle Mystery Case #25"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.816,
+        "lng": 127.228
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 5,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1426",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 26호",
+      "en": "Joseon Chronicle Mystery Case #26"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.826,
+        "lng": 127.238
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 7,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1427",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 27호",
+      "en": "Joseon Chronicle Mystery Case #27"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.836000000000006,
+        "lng": 127.24799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 9,
+      "difficulty": 8,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1428",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 28호",
+      "en": "Joseon Chronicle Mystery Case #28"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.846000000000004,
+        "lng": 127.258
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "특정 구역에 진입 시 나침반(지남반)이 거꾸로 회전하며 도깨비의 장난이 시작됨.",
+      "en": "Compasses rotate backward upon entering specific zones, signaling Dokkaebi mischief."
+    },
+    "game_stats": {
+      "strategy": 9,
+      "difficulty": 5,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1429",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 29호",
+      "en": "Joseon Chronicle Mystery Case #29"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.856,
+        "lng": 127.268
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 5,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1430",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 30호",
+      "en": "Joseon Chronicle Mystery Case #30"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.866,
+        "lng": 127.27799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 8,
+      "difficulty": 6,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1431",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 31호",
+      "en": "Joseon Chronicle Mystery Case #31"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.876000000000005,
+        "lng": 127.288
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 6,
+      "difficulty": 6,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1432",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 32호",
+      "en": "Joseon Chronicle Mystery Case #32"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.886,
+        "lng": 127.29799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 8,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1433",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 33호",
+      "en": "Joseon Chronicle Mystery Case #33"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.896,
+        "lng": 127.30799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "특정 구역에 진입 시 나침반(지남반)이 거꾸로 회전하며 도깨비의 장난이 시작됨.",
+      "en": "Compasses rotate backward upon entering specific zones, signaling Dokkaebi mischief."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 7,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1434",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 34호",
+      "en": "Joseon Chronicle Mystery Case #34"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.906000000000006,
+        "lng": 127.318
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 9,
+      "difficulty": 5,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1435",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 35호",
+      "en": "Joseon Chronicle Mystery Case #35"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.916000000000004,
+        "lng": 127.32799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 9,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1436",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 36호",
+      "en": "Joseon Chronicle Mystery Case #36"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.926,
+        "lng": 127.338
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 7,
+      "difficulty": 9,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1437",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 37호",
+      "en": "Joseon Chronicle Mystery Case #37"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.936,
+        "lng": 127.348
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 9,
+      "difficulty": 6,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1438",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 38호",
+      "en": "Joseon Chronicle Mystery Case #38"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.946000000000005,
+        "lng": 127.35799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 5,
+      "difficulty": 6,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1439",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 39호",
+      "en": "Joseon Chronicle Mystery Case #39"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.956,
+        "lng": 127.368
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "특정 구역에 진입 시 나침반(지남반)이 거꾸로 회전하며 도깨비의 장난이 시작됨.",
+      "en": "Compasses rotate backward upon entering specific zones, signaling Dokkaebi mischief."
+    },
+    "game_stats": {
+      "strategy": 9,
+      "difficulty": 8,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1440",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 40호",
+      "en": "Joseon Chronicle Mystery Case #40"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.966,
+        "lng": 127.378
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 10,
+      "difficulty": 7,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1441",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 41호",
+      "en": "Joseon Chronicle Mystery Case #41"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.976,
+        "lng": 127.38799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "특정 구역에 진입 시 나침반(지남반)이 거꾸로 회전하며 도깨비의 장난이 시작됨.",
+      "en": "Compasses rotate backward upon entering specific zones, signaling Dokkaebi mischief."
+    },
+    "game_stats": {
+      "strategy": 9,
+      "difficulty": 10,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1442",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 42호",
+      "en": "Joseon Chronicle Mystery Case #42"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.986000000000004,
+        "lng": 127.398
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 8,
+      "difficulty": 6,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1443",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 43호",
+      "en": "Joseon Chronicle Mystery Case #43"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 37.996,
+        "lng": 127.408
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 6,
+      "difficulty": 9,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1444",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 44호",
+      "en": "Joseon Chronicle Mystery Case #44"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 38.006,
+        "lng": 127.41799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 9,
+      "difficulty": 10,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1445",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 45호",
+      "en": "Joseon Chronicle Mystery Case #45"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 38.016000000000005,
+        "lng": 127.428
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "특정 구역에 진입 시 나침반(지남반)이 거꾸로 회전하며 도깨비의 장난이 시작됨.",
+      "en": "Compasses rotate backward upon entering specific zones, signaling Dokkaebi mischief."
+    },
+    "game_stats": {
+      "strategy": 9,
+      "difficulty": 6,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1446",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 46호",
+      "en": "Joseon Chronicle Mystery Case #46"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 38.026,
+        "lng": 127.43799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "기이한 빛이 밤하늘을 덮었으며, 이를 목격한 자들은 원인 모를 열병에 시달림.",
+      "en": "A strange light covered the night sky; witnesses suffered from an unknown fever."
+    },
+    "game_stats": {
+      "strategy": 10,
+      "difficulty": 6,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1447",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 47호",
+      "en": "Joseon Chronicle Mystery Case #47"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 38.036,
+        "lng": 127.448
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 8,
+      "difficulty": 8,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1448",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 48호",
+      "en": "Joseon Chronicle Mystery Case #48"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 38.046,
+        "lng": 127.458
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 6,
+      "difficulty": 9,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  },
+  {
+    "id": "K-CHRON-1449",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 49호",
+      "en": "Joseon Chronicle Mystery Case #49"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 38.056000000000004,
+        "lng": 127.46799999999999
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 8,
+      "difficulty": 8,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": false,
+    "is_fiction": true
+  },
+  {
+    "id": "K-CHRON-1450",
+    "event_name": {
+      "ko": "조선왕조실록 미스터리 사건 50호",
+      "en": "Joseon Chronicle Mystery Case #50"
+    },
+    "location": {
+      "name": {
+        "ko": "한양 도성 근방",
+        "en": "Vicinity of Hanyang Fortress"
+      },
+      "coordinates": {
+        "lat": 38.066,
+        "lng": 127.478
+      }
+    },
+    "significance": {
+      "ko": "조선 초기 기록된 기이한 천문 현상 또는 괴생명체 출현 기록.",
+      "en": "Records of strange celestial phenomena or creature sightings in early Joseon."
+    },
+    "occult_factor": {
+      "ko": "땅에서 솟아오른 검은 그림자들이 행인들의 발목을 잡았다는 괴담이 실록에 기록됨.",
+      "en": "Shadows rising from the ground grabbed the ankles of passersby according to official records."
+    },
+    "game_stats": {
+      "strategy": 10,
+      "difficulty": 9,
+      "recommended_items": [
+        {
+          "ko": "사인검",
+          "en": "Four Tigers Sword"
+        }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  }
+]

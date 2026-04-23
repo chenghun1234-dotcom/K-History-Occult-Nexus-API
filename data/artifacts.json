@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ART-001",
+    "item_name": {
+      "ko": "북관대첩비",
+      "en": "The Bukgwan Victory Monument"
+    },
+    "history": {
+      "ko": "임진왜란 당시 함경도 의병의 격퇴 기록을 새긴 비석. 일제강점기 약탈되었다가 일본 야스쿠니 신사에서 2005년 돌아온 민족의 승전 기념비.",
+      "en": "A stele recording Hamgyong righteous armies' victories. Looted during colonial rule and returned from Yasukuni Shrine in 2005."
+    },
+    "lore": {
+      "ko": "적군의 기세를 꺾고 땅의 기운을 다스리는 신령한 힘. 불의의 침략에 저항하는 민족의 혼이 서려 있어 결속력을 높임.",
+      "en": "Possesses divine power to crush enemy morale and govern land energy. Imbued with the soul of a nation resisting invasion."
+    },
+    "attributes": {
+      "Attack_Buff": "+25% to party",
+      "Morale_Boost": "Immunity to Fear",
+      "Special_Trait": "Extra DMG to characters from the East (Island nations)"
+    },
+    "power_level": "Legendary",
+    "verified": true,
+    "is_fiction": false
+  }
+]

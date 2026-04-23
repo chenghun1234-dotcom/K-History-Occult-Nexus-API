@@ -1,0 +1,34 @@
+[
+  {
+    "id": "K-HIS-001",
+    "event_name": {
+      "ko": "임진왜란 웅치전투",
+      "en": "Battle of Ungchi (Imjin War)"
+    },
+    "location": {
+      "name": {
+        "ko": "전라북도 전주시 완산구 웅치재",
+        "en": "Ungchi Pass, Wansan-gu, Jeonju, Jeollabuk-do"
+      },
+      "coordinates": { "lat": 35.846, "lng": 127.247 }
+    },
+    "significance": {
+      "ko": "1. 임진왜란 초기 전라도를 지켜낸 결정적 방어전.\n2. 호남의 곡창지대를 일본군으로부터 보호함.\n3. 의병과 관군이 협력하여 압도적 수의 일본군을 저지한 전투.",
+      "en": "1. A decisive defensive battle that protected Jeolla-do during the early Imjin War.\n2. Prevented Japanese forces from seizing the 'granary' of Korea (Honam).\n3. A historic collaboration between righteous armies and government forces."
+    },
+    "occult_factor": {
+      "ko": "안개 속에 나타나는 '웅치 수호병'과 일본군의 시체에서 피어오르는 원혼의 연기. 특정 시간 고개에 진입 시 '길 잃음' 저주가 발생한다는 설화.",
+      "en": "Legend tells of 'Ungchi Guardians' appearing in thick mist and ghost smoke rising from fallen soldiers. Entering at midnight triggers a 'Pathless' curse."
+    },
+    "game_stats": {
+      "strategy": 9,
+      "difficulty": 8,
+      "recommended_items": [
+        { "ko": "사인검", "en": "Four Tigers Sword" },
+        { "ko": "퇴마 부적", "en": "Exorcism Talisman" }
+      ]
+    },
+    "verified": true,
+    "is_fiction": false
+  }
+]

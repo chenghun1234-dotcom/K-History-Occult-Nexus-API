@@ -1,0 +1,45 @@
+[
+  {
+    "id": "PER-SAMYEONG-MASTER",
+    "name": { "ko": "사명대사", "en": "Master Samyeong" },
+    "role": { "ko": "승병장 / 도술사", "en": "Monk General / Taoist Sorcerer" },
+    "stats": {
+      "Intelligence": 98,
+      "Spirituality": 100,
+      "Combat": 85
+    },
+    "occult_attribute": {
+      "ko": "화기 제어 (Fire Manipulation)",
+      "en": "Fire Manipulation / Pyromancy"
+    },
+    "lore": {
+      "ko": "임진왜란 당시 도술로 일본군을 놀라게 했으며, 특히 뜨거운 방 안에서 얼음을 얼렸다는 전설이 전해짐.",
+      "en": "During the Imjin War, he famously used magic to intimidate the Japanese, including freezing a burning room with his spiritual power."
+    },
+    "relationships": [
+      { "target": "PER-SEO-SUN", "relation": "Disciple" },
+      { "target": "TOYOTOMI", "relation": "Nemesis" }
+    ]
+  },
+  {
+    "id": "PER-KIM-SIMIN",
+    "name": { "ko": "김시민", "en": "Kim Si-min" },
+    "role": { "ko": "진주성 방어사령관", "en": "Commander of Jinju Fortress" },
+    "stats": {
+      "Strategy": 99,
+      "Leadership": 95,
+      "Combat": 90
+    },
+    "occult_attribute": {
+      "ko": "강풍 수호 (Gale Guardian)",
+      "en": "Guardian of the Divine Winds"
+    },
+    "lore": {
+      "ko": "진주대첩의 영웅. 전사 후에도 성을 지키는 수호신령이 되어 큰 바람을 일으켜 적을 막았다고 전해짐.",
+      "en": "The hero of the Great Victory at Jinju. Legend says he became a guardian spirit after death, conjuring divine winds to protect the fortress."
+    },
+    "relationships": [
+      { "target": "PER-NONGYE", "relation": "Comrade" }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "CHRON-1440-LIGHT",
+    "title": { "ko": "세종 실록: 하늘의 기이한 빛", "en": "Sejong Chronicles: The Strange Celestial Light" },
+    "date": "1440-05-12",
+    "description": {
+      "ko": "조선 세종 왕조 당시 하늘에서 떨어진 기이한 구체와 그 주변에 발생한 실종 사건 기록.",
+      "en": "A record from King Sejong's era about a strange sphere falling from the sky and subsequent disappearances in the vicinity."
+    },
+    "occult_interpretation": {
+      "ko": "외계 비행체 또는 도깨비불의 대규모 집합체. 비정상적인 전자파(신기) 발생.",
+      "en": "Extraterrestrial craft or a massive cluster of Dokkaebi-fire. Emits abnormal spiritual wavelengths."
+    },
+    "hazard_level": "Medium",
+    "linked_location": "Gangwon-do"
+  }
+]
