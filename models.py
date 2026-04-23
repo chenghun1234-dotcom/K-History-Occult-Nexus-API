@@ -45,3 +45,13 @@ class ArtifactItem(BaseModel):
     power_level: str
     verified: bool = True
     is_fiction: bool = False
+
+class PersonaData(BaseModel):
+    id: str
+    name: MultilingualStr
+    role: MultilingualStr
+    stats: Dict[str, int]
+    occult_attribute: MultilingualStr
+    lore: MultilingualStr
+    relationships: List[Dict[str, str]]
+    verified: bool = True
